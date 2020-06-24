@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.App > div {
+  font-size: 18pt;
+  padding: 12px;
+  width: 50%;
+}
